@@ -3,7 +3,7 @@ import {CardElement, useElements, useStripe} from "@stripe/react-stripe-js"
 import Axios from "axios"
 
 
-const CARD_OPTIONS = {
+const Card_Options = {
 	iconStyle: "solid",
 	style: {
 		base: {
