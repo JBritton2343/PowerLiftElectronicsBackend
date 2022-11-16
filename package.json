@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "flask-cors": "^0.0.1",
+    "intellisense": "^0.0.1",
+    "psycopg2-binary": "^0.0.1"
+  }
+}

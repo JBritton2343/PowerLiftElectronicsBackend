@@ -1,0 +1,12 @@
+{
+    "version": "8.19.2",
+    "configurations": [
+        {
+            "name": "Flask Server",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspacefolder}/src/main.py",
+            "console": "internalConsole"
+        }
+    ]
+}
